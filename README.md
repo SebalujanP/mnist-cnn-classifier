@@ -4,7 +4,6 @@ Red neuronal convolucional entrenada sobre el dataset MNIST alcanzando 99% de ac
 
 ## 🏗️ Arquitectura
 - Capas Conv2D + MaxPooling para extracción de features
-- Dropout para control de overfitting
 - Capa densa final con activación Softmax
 
 ## 📊 Resultados
